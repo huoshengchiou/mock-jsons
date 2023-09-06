@@ -1,0 +1,589 @@
+{
+   "323947": {
+      "hierarchy_chart": [
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 323947,
+         "agent_name": "劉Ｏ",
+         "job_grade": "AMA",
+         "dtl_flag": "Y"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 354800,
+         "agent_name": "吳Ｏ萍",
+         "job_grade": "SA1",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 336836,
+         "agent_name": "佘Ｏ涵",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 369926,
+         "agent_name": "張Ｏ翔",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 390420,
+         "agent_name": "李Ｏ睿",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 409438,
+         "agent_name": "曹Ｏ翔",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 462661,
+         "agent_name": "顏Ｏ庭",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 464886,
+         "agent_name": "洪Ｏ謙",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 466983,
+         "agent_name": "林Ｏ澤",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 467227,
+         "agent_name": "羅Ｏ暘",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 467229,
+         "agent_name": "吳Ｏ蘋",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 485919,
+         "agent_name": "羅Ｏ懋",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 325040,
+         "agent_name": "林Ｏ芬",
+         "job_grade": "SP",
+         "dtl_flag": "Y"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 358102,
+         "agent_name": "方Ｏ惠",
+         "job_grade": "SP",
+         "dtl_flag": "Y"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 7323947,
+         "agent_name": "ＯＯＯ",
+         "job_grade": "AMA",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 8354800,
+         "agent_name": "[][][]",
+         "job_grade": "SA1",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 7323947,
+         "agent_name": "ＯＯＯ",
+         "job_grade": "AMA",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 8354800,
+         "agent_name": "[][][]",
+         "job_grade": "SA1",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 7323947,
+         "agent_name": "ＯＯＯ",
+         "job_grade": "AMA",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 8354800,
+         "agent_name": "[][][]",
+         "job_grade": "SA1",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 7323947,
+         "agent_name": "ＯＯＯ",
+         "job_grade": "AMA",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 8354800,
+         "agent_name": "[][][]",
+         "job_grade": "SA1",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 7323947,
+         "agent_name": "ＯＯＯ",
+         "job_grade": "AMA",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 8354800,
+         "agent_name": "[][][]",
+         "job_grade": "SA1",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 7323947,
+         "agent_name": "ＯＯＯ",
+         "job_grade": "AMA",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 8354800,
+         "agent_name": "[][][]",
+         "job_grade": "SA1",
+         "dtl_flag": "Y"
+      }
+      ]
+   },
+   "325040": {
+      "hierarchy_chart": [
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 325040,
+         "agent_name": "林Ｏ芬",
+         "job_grade": "SP",
+         "dtl_flag": "Y"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 3239471,
+         "agent_name": "李Ｏ",
+         "job_grade": "AMA",
+         "dtl_flag": "Y"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 3548002,
+         "agent_name": "王Ｏ萍",
+         "job_grade": "SA1",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 3368363,
+         "agent_name": "張Ｏ涵",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 3699264,
+         "agent_name": "留Ｏ翔",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 3904205,
+         "agent_name": "楊Ｏ睿",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 4094386,
+         "agent_name": "謝Ｏ翔",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 4626617,
+         "agent_name": "黃Ｏ庭",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 4648868,
+         "agent_name": "周Ｏ謙",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 4669839,
+         "agent_name": "吳Ｏ澤",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      }
+      ]
+   },
+   "3239471":  {
+      "hierarchy_chart": [
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 3239471,
+         "agent_name": "李Ｏ",
+         "job_grade": "AMA",
+         "dtl_flag": "Y"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 1323947,
+         "agent_name": "良Ｏ郎",
+         "job_grade": "AMA",
+         "dtl_flag": "Y"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 2354800,
+         "agent_name": "孫Ｏ萍",
+         "job_grade": "SA1",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 3336836,
+         "agent_name": "朱Ｏ涵",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 4369926,
+         "agent_name": "馬Ｏ翔",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 5390420,
+         "agent_name": "胡Ｏ睿",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 6409438,
+         "agent_name": "郭Ｏ翔",
+         "job_grade": "SA2",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 7323947,
+         "agent_name": "ＯＯＯ",
+         "job_grade": "AMA",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 8354800,
+         "agent_name": "[][][]",
+         "job_grade": "SA1",
+         "dtl_flag": "Y"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 7323947,
+         "agent_name": "ＯＯＯ",
+         "job_grade": "AMA",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 8354800,
+         "agent_name": "[][][]",
+         "job_grade": "SA1",
+         "dtl_flag": "Y"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 7323947,
+         "agent_name": "ＯＯＯ",
+         "job_grade": "AMA",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 8354800,
+         "agent_name": "[][][]",
+         "job_grade": "SA1",
+         "dtl_flag": "Y"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 7323947,
+         "agent_name": "ＯＯＯ",
+         "job_grade": "AMA",
+         "dtl_flag": "N"
+      },
+      {
+         "channel_code": "AG",
+         "sales_office": "J301",
+         "agent_id": 8354800,
+         "agent_name": "[][][]",
+         "job_grade": "SA1",
+         "dtl_flag": "Y"
+      }
+      ]
+   },
+   "1323947": {
+      "hierarchy_chart": [
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 1323947,
+            "agent_name": "良Ｏ郎",
+            "job_grade": "AMA",
+            "dtl_flag": "Y"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 3548002,
+            "agent_name": "王Ｏ萍",
+            "job_grade": "SA1",
+            "dtl_flag": "N"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 3368363,
+            "agent_name": "張Ｏ涵",
+            "job_grade": "SA2",
+            "dtl_flag": "N"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 3699264,
+            "agent_name": "留Ｏ翔",
+            "job_grade": "SA2",
+            "dtl_flag": "N"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 3904205,
+            "agent_name": "楊Ｏ睿",
+            "job_grade": "SA2",
+            "dtl_flag": "N"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 4094386,
+            "agent_name": "謝Ｏ翔",
+            "job_grade": "SA2",
+            "dtl_flag": "N"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 4626617,
+            "agent_name": "黃Ｏ庭",
+            "job_grade": "SA2",
+            "dtl_flag": "N"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 4648868,
+            "agent_name": "周Ｏ謙",
+            "job_grade": "SA2",
+            "dtl_flag": "Y"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 4669839,
+            "agent_name": "吳Ｏ澤",
+            "job_grade": "SA2",
+            "dtl_flag": "N"
+         }
+      ]
+   },
+   "4648868": {
+      "hierarchy_chart": [
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 4648868,
+            "agent_name": "周Ｏ謙",
+            "job_grade": "SA2",
+            "dtl_flag": "Y"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 6409438,
+            "agent_name": "郭Ｏ林",
+            "job_grade": "SA2",
+            "dtl_flag": "N"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 7323947,
+            "agent_name": "周潤發",
+            "job_grade": "AMA",
+            "dtl_flag": "N"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 8354800,
+            "agent_name": "林聰明",
+            "job_grade": "SA1",
+            "dtl_flag": "N"
+         }
+      ]
+   },
+   "2354800": {
+      "hierarchy_chart": [
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 2354800,
+            "agent_name": "林Ｏ萍",
+            "job_grade": "SA1",
+            "dtl_flag": "N"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 3336836,
+            "agent_name": "徐林",
+            "job_grade": "SA2",
+            "dtl_flag": "N"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 4369926,
+            "agent_name": "林翔",
+            "job_grade": "SA2",
+            "dtl_flag": "N"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 5390420,
+            "agent_name": "林Ｏ徐",
+            "job_grade": "SA2",
+            "dtl_flag": "N"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 6409438,
+            "agent_name": "郭Ｏ林",
+            "job_grade": "SA2",
+            "dtl_flag": "N"
+         },
+         {
+            "channel_code": "AG",
+            "sales_office": "J301",
+            "agent_id": 325040,
+            "agent_name": "林Ｏ芬",
+            "job_grade": "AMA",
+            "dtl_flag": "Y"
+         }
+      ]
+   },
+   "empty":{
+      "hierarchy_chart": []
+   }
+}

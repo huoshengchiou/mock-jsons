@@ -1,0 +1,9 @@
+{
+    "annual_leave_quota":[
+        {
+            "annual_leave": 2023,
+            "days_of_annual_leave": 1,
+            "days_use": 1
+        }
+    ]
+}

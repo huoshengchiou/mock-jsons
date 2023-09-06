@@ -1,0 +1,17 @@
+{
+    "submit_date": "2023/05/30",
+    "receipt_no": 26,
+    "cancel_reason": "銷假原因",
+    "receipt_status": "PROCESS",
+    "receipt_status_desc": "送簽中",
+    "agent_id": 99898,
+    "agent_name": "林Ｏ樺",
+    "leave_receipt_no": "19",
+    "absence_code": "2",
+    "absence_start_date": "2023/05/30",
+    "absence_end_date": "2023/05/30",
+    "absence_days": 1,
+    "reason_for_leave": "事假",
+    "flow_id": 9456497,
+    "absence_extra_value": []
+}

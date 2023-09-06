@@ -1,0 +1,12 @@
+{
+    "code_detail": [
+        {
+            "code_id": "DAY_OFF",
+            "code_desc": "請假單"
+        },
+        {
+            "code_id": "DAY_OFFR",
+            "code_desc": "銷假單"
+        }
+    ]
+}

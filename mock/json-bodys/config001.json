@@ -1,0 +1,41 @@
+{
+    "menu": [
+        {
+            "web_function": "AGPORTAL_HOME",
+            "web_func_attribute": "多物件",
+            "web_func_display_text": "AGPORTAL 首頁",
+            "web_function_Parent": null,
+            "upper_display_order": null,
+            "web_menu_display_text": "首頁",
+            "web_menu_display_icon": null,
+            "web_menu_display_background": null,
+            "web_function_short_name": "首頁"
+        }
+    ],
+    "object": [
+        {
+            "web_function": "AGPORTAL_HOME",
+            "web_object": "AGPORTAL_ATTENDANCE",
+            "web_obj_attribute": "WEB",
+            "web_obj_display_text": "AMS 出勤管理",
+            "web_obj_display_image": "icon-humanResource",
+            "web_obj_link_url": null,
+            "dashboard_use_mode": "SINGLE USER",
+            "web_obj_owner": "L00",
+            "display_order": 1,
+            "project_id": null
+        },
+        {
+            "web_function": "AGPORTAL_HOME",
+            "web_object": "AGPORTAL_ORGANIZATION",
+            "web_obj_attribute": "WEB",
+            "web_obj_display_text": "AMS 組織管理查詢",
+            "web_obj_display_image": "icon-通訊處速報",
+            "web_obj_link_url": null,
+            "dashboard_use_mode": "SINGLE USER",
+            "web_obj_owner": "L00",
+            "display_order": 2,
+            "project_id": null
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "abnormal_status": [
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/06/21",
+            "abnormal_cnt": 3
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/06/26",
+            "abnormal_cnt": 4
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/06/27",
+            "abnormal_cnt": 4
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/06/28",
+            "abnormal_cnt": 4
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/06/29",
+            "abnormal_cnt": 3
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/06/30",
+            "abnormal_cnt": 4
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/03",
+            "abnormal_cnt": 3
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/04",
+            "abnormal_cnt": 3
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/05",
+            "abnormal_cnt": 3
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/06",
+            "abnormal_cnt": 0
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/07",
+            "abnormal_cnt": 3
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/10",
+            "abnormal_cnt": 3
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/11",
+            "abnormal_cnt": 3
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/12",
+            "abnormal_cnt": 0
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/13",
+            "abnormal_cnt": 0
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/14",
+            "abnormal_cnt": 0
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/17",
+            "abnormal_cnt": 0
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/18",
+            "abnormal_cnt": 0
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/19",
+            "abnormal_cnt": 0
+        },
+        {
+            "process_month": "2023/07",
+            "work_date": "2023/07/20",
+            "abnormal_cnt": 4
+        }
+    ]
+}

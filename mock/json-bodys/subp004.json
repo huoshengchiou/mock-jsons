@@ -1,0 +1,28 @@
+{
+    "delegate_list": [
+        {
+            "proc_mode": "INQUIRY",
+            "agent_delegate_seq": 1,
+            "delegate_agent_id": 98206,
+            "delegate_agent_name": "林Ｏ伶",
+            "start_date": "2023/05/25",
+            "end_date": "2023/05/25"
+        },
+        {
+            "proc_mode": "UPDATE",
+            "agent_delegate_seq": 2,
+            "delegate_agent_id": 98288,
+            "delegate_agent_name": "林Ｏ伶2",
+            "start_date": "2023/05/25",
+            "end_date": "2023/05/25"
+        },
+        {
+            "proc_mode": "DELETE",
+            "agent_delegate_seq": 2,
+            "delegate_agent_id": 98288,
+            "delegate_agent_name": "林Ｏ伶3",
+            "start_date": "2023/05/25",
+            "end_date": "2023/05/25"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "attendance_rec": [
+        {
+            "working_date": "",
+            "abnormal_flag": "",
+            "working_hours": "",
+            "off_hours": "",
+            "wk_place": "",
+            "wk_place_desc": "",
+            "leave_flag": "",
+            "remark": ""
+        }
+    ]
+}

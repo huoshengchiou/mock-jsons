@@ -1,0 +1,19 @@
+{
+    "submit_date": "2023/05/28",
+    "receipt_no": 2,
+    "receipt_status": "PROCESS",
+    "receipt_status_desc": "送簽中",
+    "agent_id": 99898,
+    "agent_name": "林Ｏ樺",
+    "absence_code": "2",
+    "absence_start_date": "2023/05/25",
+    "absence_end_date": "2023/05/27",
+    "absence_days": 2,
+    "reason_for_leave": "事假",
+    "can_be_change": "Y",
+    "can_be_remove": "Y",
+    "can_be_cancel": "Y",
+    "flow_id": 9456290,
+    "attachment_yn": "N",
+    "absence_extra_value": []
+}

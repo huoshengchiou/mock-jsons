@@ -1,0 +1,28 @@
+{
+    "code_detail": [
+        {
+            "code_id": "PROCESS",
+            "code_desc": "送簽中"
+        },
+        {
+            "code_id": "APPROVED",
+            "code_desc": "已核准"
+        },
+        {
+            "code_id": "HOLD",
+            "code_desc": "暫存"
+        },
+        {
+            "code_id": "CANCEL",
+            "code_desc": "抽單"
+        },
+        {
+            "code_id": "REJECTED",
+            "code_desc": "否決"
+        },
+        {
+            "code_id": "REPLENISH",
+            "code_desc": "待補件"
+        }
+    ]
+}

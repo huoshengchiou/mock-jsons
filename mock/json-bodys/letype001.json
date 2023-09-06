@@ -1,0 +1,368 @@
+{
+    "absence_rec": [
+        {
+            "absence_code": "1",
+            "absence_name": "特別休假",
+            "absence_desc": "在本公司服務滿一定期間者依下列規定給與特別休假，並於當年度將特別休假使用完畢。\n．年資六個月以上未滿一年者，三日。\n．年資一年以上未滿二年者，七日。\n．年資二年以上未滿三年者，十日。\t\n．年資三年以上未滿五年者，每年十四日。\n．年資五年以上未滿十年者，每年十五日。\n．年資滿十年以上，每一年加給一日，加至三十日為止。",
+            "reason_for_leave": "N",
+            "accessory_desc": null,
+            "attach_proof": "N",
+            "accessory_options": null,
+            "extra_info": []
+        },
+        {
+            "absence_code": "2",
+            "absence_name": "事假",
+            "absence_desc": "業務同仁年度特別休假天數使用完畢，若仍有請假之需要者，得以事假辦理；全年合計十四日為限。",
+            "reason_for_leave": "N",
+            "accessory_desc": null,
+            "attach_proof": "N",
+            "accessory_options": null,
+            "extra_info": []
+        },
+        {
+            "absence_code": "21",
+            "absence_name": "家庭照顧假",
+            "absence_desc": "員工之家庭成員發生嚴重之疾病或其他重大事故須親自照顧時，得請家庭照顧假，其請假日數併入事假計算，全年以七日為限。",
+            "reason_for_leave": "N",
+            "accessory_desc": "看診掛號單、住院診療單、接種疫苗證明等。",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": []
+        },
+        {
+            "absence_code": "6",
+            "absence_name": "婚假",
+            "absence_desc": "業務同仁本人結婚給予婚假八日（不含例假日、節日），應自登記結婚之日前十日起三個月內請畢。",
+            "reason_for_leave": "N",
+            "accessory_desc": "戶籍謄本影本。",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": [
+                {
+                    "info_code": "BASE_DATE",
+                    "info_desc": "登記結婚日",
+                    "info_attributes": "D",
+                    "info_values": []
+                }
+            ]
+        },
+        {
+            "absence_code": "7",
+            "absence_name": "喪假(8日)",
+            "absence_desc": "因處理喪葬事宜所需，得於處理喪事百日內申請喪假（不含例假日、節日）。\n親屬關係：父母、養父母、繼父母、配偶。",
+            "reason_for_leave": "N",
+            "accessory_desc": "死亡證明、訃聞或除戶證明文件。(請於百日內提出申請)",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": [
+                {
+                    "info_code": "BASE_DATE",
+                    "info_desc": "眷屬身故日",
+                    "info_attributes": "D",
+                    "info_values": []
+                },
+                {
+                    "info_code": "RELATIONSHIP",
+                    "info_desc": "親屬關係",
+                    "info_attributes": "C",
+                    "info_values": [
+                        {
+                            "info_code": "01",
+                            "info_value": "父母"
+                        },
+                        {
+                            "info_code": "02",
+                            "info_value": "養父母"
+                        },
+                        {
+                            "info_code": "03",
+                            "info_value": "繼父母"
+                        },
+                        {
+                            "info_code": "04",
+                            "info_value": "配偶"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "absence_code": "8",
+            "absence_name": "喪假(6日)",
+            "absence_desc": "因處理喪葬事宜所需，得於處理喪事百日內申請喪假（不含例假日、節日）。\n親屬關係：父母、子女、配偶之父母、配偶之養父母或繼父母。",
+            "reason_for_leave": "N",
+            "accessory_desc": "死亡證明、訃聞或除戶證明文件。(請於百日內提出申請)",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": [
+                {
+                    "info_code": "BASE_DATE",
+                    "info_desc": "眷屬身故日",
+                    "info_attributes": "D",
+                    "info_values": []
+                },
+                {
+                    "info_code": "RELATIONSHIP",
+                    "info_desc": "親屬關係",
+                    "info_attributes": "C",
+                    "info_values": [
+                        {
+                            "info_code": "05",
+                            "info_value": "祖父母"
+                        },
+                        {
+                            "info_code": "06",
+                            "info_value": "外祖父母"
+                        },
+                        {
+                            "info_code": "07",
+                            "info_value": "子女"
+                        },
+                        {
+                            "info_code": "08",
+                            "info_value": "配偶之父母"
+                        },
+                        {
+                            "info_code": "09",
+                            "info_value": "配偶之養父母或繼父母"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "absence_code": "9",
+            "absence_name": "喪假(3日)",
+            "absence_desc": "因處理喪葬事宜所需，得於處理喪事百日內申請喪假（不含例假日、節日）。\n親屬關係：曾祖父母、兄弟姊妹、配偶之祖父母。",
+            "reason_for_leave": "N",
+            "accessory_desc": "死亡證明、訃聞或除戶證明文件。(請於百日內提出申請)",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": [
+                {
+                    "info_code": "BASE_DATE",
+                    "info_desc": "眷屬身故日",
+                    "info_attributes": "D",
+                    "info_values": []
+                },
+                {
+                    "info_code": "RELATIONSHIP",
+                    "info_desc": "親屬關係",
+                    "info_attributes": "C",
+                    "info_values": [
+                        {
+                            "info_code": "10",
+                            "info_value": "曾祖父母"
+                        },
+                        {
+                            "info_code": "11",
+                            "info_value": "兄弟姊妹"
+                        },
+                        {
+                            "info_code": "12",
+                            "info_value": "配偶之祖父母"
+                        },
+                        {
+                            "info_code": "13",
+                            "info_value": "配偶之外祖父母"
+                        },
+                        {
+                            "info_code": "14",
+                            "info_value": "外曾祖父母"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "absence_code": "4",
+            "absence_name": "普通傷病假(未住院)",
+            "absence_desc": "因普通傷害、疾病或生理原因必須治療或休養者，一年內不得超過三十日。",
+            "reason_for_leave": "N",
+            "accessory_desc": "連續申請二天或同一工作月累計超過三天(含)病假者，需檢附醫生證明。",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": []
+        },
+        {
+            "absence_code": "5",
+            "absence_name": "普通傷病假(住院)",
+            "absence_desc": "因普通傷害、疾病或生理原因必須治療或休養者，一年內不得超過三十日。",
+            "reason_for_leave": "N",
+            "accessory_desc": "連續申請二天或同一工作月累計超過三天(含)病假者，需檢附醫生證明。",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": []
+        },
+        {
+            "absence_code": "10",
+            "absence_name": "公傷病假",
+            "absence_desc": "因職業災害而致失能、傷害或疾病者，其治療休養期間給予公傷病假，期間以二年為限。",
+            "reason_for_leave": "N",
+            "accessory_desc": "醫師證明或其他相關證明文件。",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": [
+                {
+                    "info_code": "BASE_DATE",
+                    "info_desc": "職災發生日",
+                    "info_attributes": "D",
+                    "info_values": []
+                }
+            ]
+        },
+        {
+            "absence_code": "19",
+            "absence_name": "生理假",
+            "absence_desc": "女性業務同仁因生理日致工作有困難者，每月得請生理假一日，全年請假日數未逾三日，不併入病假計算，其餘日數併入病假計算。",
+            "reason_for_leave": "N",
+            "accessory_desc": null,
+            "attach_proof": "N",
+            "accessory_options": null,
+            "extra_info": []
+        },
+        {
+            "absence_code": "11",
+            "absence_name": "產假",
+            "absence_desc": "女性業務同仁於分娩前後期間得申請產假共八週，產假須連續請休，請假期間包含週六、日及國定假日。",
+            "reason_for_leave": "N",
+            "accessory_desc": "出生證明或其他證明文件。",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": [
+                {
+                    "info_code": "BASE_DATE",
+                    "info_desc": "分娩日",
+                    "info_attributes": "D",
+                    "info_values": []
+                }
+            ]
+        },
+        {
+            "absence_code": "13",
+            "absence_name": "小產假(妊娠三個月)",
+            "absence_desc": "女性業務同仁妊娠三個月以上流產者，產假四週；，產假須連續請休，請假期間包含週六、日及國定假日。",
+            "reason_for_leave": "N",
+            "accessory_desc": "醫師證明或其他證明文件。",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": [
+                {
+                    "info_code": "BASE_DATE",
+                    "info_desc": "小產日期",
+                    "info_attributes": "D",
+                    "info_values": []
+                }
+            ]
+        },
+        {
+            "absence_code": "14",
+            "absence_name": "小產假(妊娠二個月)",
+            "absence_desc": "女性業務同仁妊娠二個月(含)以上未滿三個月小產者，產假一星期，產假須連續請休，請假期間包含週六、日及國定假日。",
+            "reason_for_leave": "N",
+            "accessory_desc": "醫師證明或其他證明文件。",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": [
+                {
+                    "info_code": "BASE_DATE",
+                    "info_desc": "小產日期",
+                    "info_attributes": "D",
+                    "info_values": []
+                }
+            ]
+        },
+        {
+            "absence_code": "26",
+            "absence_name": "小產假(妊娠未滿二個月)",
+            "absence_desc": "女性業務同仁妊娠未滿二個月小產者，給予產假五日，產假須連續請休，請假期間包含週六、日及國定假日。",
+            "reason_for_leave": "N",
+            "accessory_desc": "醫師證明或其他證明文件。",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": [
+                {
+                    "info_code": "BASE_DATE",
+                    "info_desc": "小產日期",
+                    "info_attributes": "D",
+                    "info_values": []
+                }
+            ]
+        },
+        {
+            "absence_code": "18",
+            "absence_name": "產檢假",
+            "absence_desc": "女性業務同仁於妊娠期間，得申請產檢假共七日。",
+            "reason_for_leave": "N",
+            "accessory_desc": "媽媽手冊（蓋有當日產檢章）或產檢收據證明。",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": []
+        },
+        {
+            "absence_code": "12",
+            "absence_name": "陪產檢假",
+            "absence_desc": "01、男性業務同仁為陪伴配偶產檢或生產，可在總數七日之額度內，自行決定陪產檢請假的日數及陪產請假的日數。\n02、如係為陪伴配偶產檢，應於配偶妊娠期間請休。",
+            "reason_for_leave": "N",
+            "accessory_desc": "配偶媽媽手冊（蓋有當日產檢章）或產檢收據證明。",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": [
+                {
+                    "info_code": "RELATIONSHIP",
+                    "info_desc": "親屬關係",
+                    "info_attributes": "C",
+                    "info_values": []
+                }
+            ]
+        },
+        {
+            "absence_code": "28",
+            "absence_name": "陪產假",
+            "absence_desc": "01、男性業務同仁為陪伴配偶產檢或生產，可在總數七日之額度內，自行決定陪產檢請假的日數及陪產請假的日數。\n02、如係為陪伴配偶生產，應在配偶分娩的當日及其前後合計十五日期間內請休。",
+            "reason_for_leave": "N",
+            "accessory_desc": "出生證明、戶籍謄本。(請於配偶分娩的當日及其前後合計十五日期間內請休)",
+            "attach_proof": "Y",
+            "accessory_options": "DOC_REQ",
+            "extra_info": [
+                {
+                    "info_code": "BASE_DATE",
+                    "info_desc": "配偶分娩日",
+                    "info_attributes": "D",
+                    "info_values": []
+                }
+            ]
+        },
+        {
+            "absence_code": "3",
+            "absence_name": "公假",
+            "absence_desc": "因公參加各種會議、訓練、兵役召集等依法令規定應給予公假者，得檢附相關證件影本申請公假，其假期依實際需要核定之。",
+            "reason_for_leave": "N",
+            "accessory_desc": "有關單位證明。",
+            "attach_proof": "Y",
+            "accessory_options": "NON_REPLACE",
+            "extra_info": []
+        },
+        {
+            "absence_code": "25",
+            "absence_name": "原住民族歲時祭儀假",
+            "absence_desc": "為各該原住民族勞工之應放假日，其應放假一日之日期，以原住民族委員會公告為準。",
+            "reason_for_leave": "N",
+            "accessory_desc": "戶籍謄本或戶口名簿影本等族群證明文件。",
+            "attach_proof": "Y",
+            "accessory_options": "NON_REPLACE",
+            "extra_info": []
+        },
+        {
+            "absence_code": "27",
+            "absence_name": "天然災害假",
+            "absence_desc": "依「天然災害停止上班及上課作業辦法」執行",
+            "reason_for_leave": "N",
+            "accessory_desc": null,
+            "attach_proof": "N",
+            "accessory_options": null,
+            "extra_info": []
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "process_month": "2023/07",
+    "work_date": "2023/07/03",
+    "abnormal_detail": [
+        {
+            "agent_name": "謝Ｏ麟",
+            "job_grade": "SM-A",
+            "superior_name": "陳Ｏ霖",
+            "superior_job_grade": "DM",
+            "absence_desc": null
+        },
+        {
+            "agent_name": "陳Ｏ璋",
+            "job_grade": "SM-A",
+            "superior_name": "陳Ｏ霖",
+            "superior_job_grade": "DM",
+            "absence_desc": "事假"
+        },
+        {
+            "agent_name": "賴Ｏ勳",
+            "job_grade": "AM-A",
+            "superior_name": "陳Ｏ霖",
+            "superior_job_grade": "DM",
+            "absence_desc": null
+        }
+    ]
+}

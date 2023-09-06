@@ -1,0 +1,6 @@
+{
+    "proc_cnt": 2,
+    "display_msg": "尚有待審案件未簽核",
+    "return_rule_code": "OK",
+    "return_rule_sign": "WARNING"
+}

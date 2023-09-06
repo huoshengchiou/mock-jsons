@@ -1,0 +1,68 @@
+{
+    "code_detail": [
+        {
+            "code_id": "Amis",
+            "code_desc": "阿美族"
+        },
+        {
+            "code_id": "Atayal",
+            "code_desc": "泰雅族"
+        },
+        {
+            "code_id": "Bunun",
+            "code_desc": "布農族"
+        },
+        {
+            "code_id": "Cou",
+            "code_desc": "鄒族"
+        },
+        {
+            "code_id": "Hla’alua",
+            "code_desc": "拉阿魯哇族"
+        },
+        {
+            "code_id": "Kanakanavu",
+            "code_desc": "卡那卡那富族"
+        },
+        {
+            "code_id": "Kavalan",
+            "code_desc": "噶瑪蘭族"
+        },
+        {
+            "code_id": "Paiwan",
+            "code_desc": "排灣族"
+        },
+        {
+            "code_id": "Pinuyumayan",
+            "code_desc": "卑南族"
+        },
+        {
+            "code_id": "Rukai",
+            "code_desc": "魯凱族"
+        },
+        {
+            "code_id": "Saisiyat",
+            "code_desc": "賽夏族"
+        },
+        {
+            "code_id": "Sakizaya",
+            "code_desc": "撒奇萊雅族"
+        },
+        {
+            "code_id": "Sediq",
+            "code_desc": "賽德克族"
+        },
+        {
+            "code_id": "Thao",
+            "code_desc": "邵族"
+        },
+        {
+            "code_id": "Truku",
+            "code_desc": "太魯閣族"
+        },
+        {
+            "code_id": "Yami",
+            "code_desc": "雅美族"
+        }
+    ]
+}

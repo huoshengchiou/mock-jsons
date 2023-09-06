@@ -1,0 +1,14 @@
+{
+    "annual_absence_days": [
+        {
+            "absence_code": "1",
+            "absence_name": "特別休假",
+            "absence_days": 1
+        },
+        {
+            "absence_code": "2",
+            "absence_name": "事假",
+            "absence_days": 1
+        }
+    ]
+}

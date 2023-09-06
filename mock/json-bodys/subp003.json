@@ -1,0 +1,54 @@
+{
+    "delegate_list": [
+        {
+            "agent_id": 86361,
+            "agent_name": "邱Ｏ梅",
+            "job_grade": "SMA"
+        },
+        {
+            "agent_id": 92642,
+            "agent_name": "張Ｏ華",
+            "job_grade": "SMA"
+        },
+        {
+            "agent_id": 98206,
+            "agent_name": "林Ｏ伶",
+            "job_grade": "SMA"
+        },
+        {
+            "agent_id": 99000,
+            "agent_name": "錢Ｏ生",
+            "job_grade": "DM"
+        },
+        {
+            "agent_id": 100332,
+            "agent_name": "陳Ｏ助",
+            "job_grade": "AMA"
+        },
+        {
+            "agent_id": 100822,
+            "agent_name": "羅Ｏ淇",
+            "job_grade": "SP"
+        },
+        {
+            "agent_id": 104999,
+            "agent_name": "陳Ｏ臻",
+            "job_grade": "AMA"
+        },
+        {
+            "agent_id": 106251,
+            "agent_name": "林Ｏ鑾",
+            "job_grade": "AMA"
+        },
+        {
+            "agent_id": 183934,
+            "agent_name": "楊Ｏ煌",
+            "job_grade": "SP"
+        },
+        {
+            "agent_id": 337305,
+            "agent_name": "吳Ｏ憲",
+            "job_grade": "SP"
+        }
+    ]
+}

@@ -1,0 +1,425 @@
+{
+    "attendance_rec":[
+        {
+            "working_date": "2023/03/17",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/03/20",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/03/21",
+            "abnormal_flag": "N",
+            "working_hours": null,
+            "off_hours": null,
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "Y",
+            "remark": "112/03/22已補請假"
+        },
+        {
+            "working_date": "2023/03/22",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/03/23",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/03/24",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/03/25",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/03/27",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/03/28",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/03/29",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/03/30",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/03/31",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/04/06",
+            "abnormal_flag": "N",
+            "working_hours": null,
+            "off_hours": null,
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "Y",
+            "remark": "112/04/11已補請假"
+        },
+        {
+            "working_date": "2023/04/07",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/04/10",
+            "abnormal_flag": "N",
+            "working_hours": null,
+            "off_hours": null,
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "Y",
+            "remark": "112/04/11已補請假"
+        },
+        {
+            "working_date": "2023/04/11",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/04/12",
+            "abnormal_flag": "N",
+            "working_hours": null,
+            "off_hours": null,
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "Y",
+            "remark": "112/04/14已補請假"
+        },
+        {
+            "working_date": "2023/04/13",
+            "abnormal_flag": "N",
+            "working_hours": null,
+            "off_hours": null,
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "Y",
+            "remark": "112/04/14已補請假"
+        },
+        {
+            "working_date": "2023/04/14",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/04/17",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/04/18",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/04/19",
+            "abnormal_flag": "N",
+            "working_hours": null,
+            "off_hours": null,
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "Y",
+            "remark": "112/04/21已補請假"
+        },
+        {
+            "working_date": "2023/04/20",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/04/21",
+            "abnormal_flag": "N",
+            "working_hours": null,
+            "off_hours": null,
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "Y",
+            "remark": null
+        },
+        {
+            "working_date": "2023/04/24",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/04/25",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/04/26",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/04/27",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/04/28",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/05/02",
+            "abnormal_flag": "N",
+            "working_hours": null,
+            "off_hours": null,
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "Y",
+            "remark": null
+        },
+        {
+            "working_date": "2023/05/03",
+            "abnormal_flag": "N",
+            "working_hours": null,
+            "off_hours": null,
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "Y",
+            "remark": null
+        },
+        {
+            "working_date": "2023/05/04",
+            "abnormal_flag": "N",
+            "working_hours": null,
+            "off_hours": null,
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "Y",
+            "remark": null
+        },
+        {
+            "working_date": "2023/05/05",
+            "abnormal_flag": "N",
+            "working_hours": null,
+            "off_hours": null,
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "Y",
+            "remark": null
+        },
+        {
+            "working_date": "2023/05/08",
+            "abnormal_flag": "N",
+            "working_hours": null,
+            "off_hours": null,
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "Y",
+            "remark": null
+        },
+        {
+            "working_date": "2023/05/09",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/05/10",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/05/11",
+            "abnormal_flag": "Y",
+            "working_hours": null,
+            "off_hours": null,
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/05/12",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/05/15",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/05/16",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/05/17",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        },
+        {
+            "working_date": "2023/05/18",
+            "abnormal_flag": "N",
+            "working_hours": "09:00",
+            "off_hours": "10:00",
+            "wk_place": null,
+            "wk_place_desc": null,
+            "leave_flag": "N",
+            "remark": null
+        }
+    ]
+}
+

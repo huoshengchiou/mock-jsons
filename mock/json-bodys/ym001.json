@@ -1,0 +1,22 @@
+{
+    "ym": "2023/01/01",
+    "working_days": 1,
+    "abnormal_days": 2,
+    "leave_days": 3,
+    "ym_b": "2022/12/01",
+    "working_days_b" : 4,
+    "abnormal_days_b" : 3,
+    "leave_days_b" : 2,
+    "attendance_rec": [
+        {
+            "working_date":"2022/12/15",
+            "abnormal_flag":"異常註記",
+            "working_hours":"",
+            "off_hours":"簽到",
+            "wk_place":"簽退",
+            "wk_place_desc":"工作地點",
+            "leave_flag":"請假註記",
+            "remark":"說明"
+        }
+    ]
+}

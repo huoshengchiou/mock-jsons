@@ -1,0 +1,6 @@
+{
+    "delegate_yn": "Y",
+    "display_msg": "已設定代理人，是否取消代理?",
+    "return_rule_code": "YN",
+    "return_rule_sign": "WARNING"
+}

@@ -1,0 +1,20 @@
+{
+    "code_detail": [
+        {
+            "code_id": "ALL",
+            "code_desc": "全部"
+        },
+        {
+            "code_id": "NORMAL",
+            "code_desc": "正常出勤"
+        },
+        {
+            "code_id": "NORMAL_Y",
+            "code_desc": "已請假"
+        },
+        {
+            "code_id": "ABNORMAL",
+            "code_desc": "異常出勤"
+        }
+    ]
+}

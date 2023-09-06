@@ -1,0 +1,12 @@
+{
+    "code_detail": [
+        {
+            "code_id": "APPROVE",
+            "code_desc": "核准申請"
+        },
+        {
+            "code_id": "REJECT",
+            "code_desc": "否決申請"
+        }
+    ]
+}
